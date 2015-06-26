@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+<?xml version="1.0" encoding="UTF-8"?><package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
   <metadata>
     <dc:rights>Public domain</dc:rights>
     <dc:creator opf:file-as="Unknown, Author">Unknown Author</dc:creator>
@@ -10,6 +9,6 @@
   <manifest>
     <item href="mybook-nav.html" media-type="application/xhtml+xml" id="toc" properties="nav"/>
     <item href="module1.html" id="module1.html" media-type="application/xhtml+xml"/>
-  <item href="../resources/2ca787be6c672919adcc0f294058b8f9bfa16a3a.jpg" id="../resources/2ca787be6c672919adcc0f294058b8f9bfa16a3a.jpg" media-type="image/jpeg" properties="mathml scripted"/></manifest>
-  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1.html"></itemref></spine>
+  <item href="../resources/2ca787be6c672919adcc0f294058b8f9bfa16a3a.jpg" id="../resources/2ca787be6c672919adcc0f294058b8f9bfa16a3a.jpg" media-type="image/jpeg" properties="mathml scripted"/><item href="chapter-1-intro-f22915d0-f7c2-4116-b280-b89d3e30080a.html" id="chapter-1-intro-f22915d0-f7c2-4116-b280-b89d3e30080a.html" media-type="application/xhtml+xml" properties="mathml scripted"/><item href="chapter-2--ddded6e3-a7ae-4552-b891-67c529a88cee.html" id="chapter-2--ddded6e3-a7ae-4552-b891-67c529a88cee.html" media-type="application/xhtml+xml" properties="mathml scripted"/></manifest>
+  <spine><itemref xmlns="http://www.w3.org/1999/xhtml" idref="chapter-2--ddded6e3-a7ae-4552-b891-67c529a88cee.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="chapter-1-intro-f22915d0-f7c2-4116-b280-b89d3e30080a.html"></itemref><itemref xmlns="http://www.w3.org/1999/xhtml" idref="module1.html"></itemref></spine>
 </package>
